@@ -1,0 +1,62 @@
+[
+    {
+        "outputFile": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-en/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 44,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-en/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 68,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-en/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 48,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            }
+        ]
+    }
+]

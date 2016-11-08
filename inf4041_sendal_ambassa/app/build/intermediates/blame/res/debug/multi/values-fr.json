@@ -1,0 +1,328 @@
+[
+    {
+        "outputFile": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 37,
+                    "endOffset": 88
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 179,
+                        "endColumn": 37,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 93,
+                    "endColumn": 44,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 134,
+                        "endColumn": 44,
+                        "endOffset": 174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 68,
+                    "endOffset": 202
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-fr/strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 207,
+                    "endColumn": 110,
+                    "endOffset": 313
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 318,
+                    "endColumn": 107,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 122,
+                    "endOffset": 544
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 549,
+                    "endColumn": 114,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 110,
+                    "endOffset": 770
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 775,
+                    "endColumn": 81,
+                    "endOffset": 852
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 857,
+                    "endColumn": 105,
+                    "endOffset": 958
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 963,
+                    "endColumn": 129,
+                    "endOffset": 1088
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1093,
+                    "endColumn": 82,
+                    "endOffset": 1171
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1176,
+                    "endColumn": 79,
+                    "endOffset": 1251
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1256,
+                    "endColumn": 85,
+                    "endOffset": 1337
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1342,
+                    "endColumn": 109,
+                    "endOffset": 1447
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1452,
+                    "endColumn": 111,
+                    "endOffset": 1559
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1564,
+                    "endColumn": 102,
+                    "endOffset": 1662
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1667,
+                    "endColumn": 110,
+                    "endOffset": 1773
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1778,
+                    "endColumn": 106,
+                    "endOffset": 1880
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1885,
+                    "endColumn": 106,
+                    "endOffset": 1987
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1992,
+                    "endColumn": 121,
+                    "endOffset": 2109
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2114,
+                    "endColumn": 98,
+                    "endOffset": 2208
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2213,
+                    "endColumn": 48,
+                    "endOffset": 2257
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/src/main/res/values-fr/strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 48,
+                        "endOffset": 60
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2262,
+                    "endColumn": 85,
+                    "endOffset": 2343
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2348,
+                    "endColumn": 100,
+                    "endOffset": 2444
+                },
+                "from": {
+                    "file": "/Users/user/AndroidStudioProjects/inf4041_sendal_ambassa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-fr/values-fr.xml"
+                }
+            }
+        ]
+    }
+]
