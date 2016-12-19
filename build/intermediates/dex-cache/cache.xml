@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0c5ebdfb19d0442c143a3f26f73aeb5dd27ab35a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0b2cd5496da1fef69ff4b32aab40c043fa4f487f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0855104e3ed2f7c6ed8aa962b6de429ef13d0496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="aa59d5c07a95b84a10cfd311c3532de0bf85a474">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a71ddf88906a8f73836aed2099984a39f753e17c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="304be53e244461fb442da6ffd7aa04ec46538cfe">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_c2af1546945485dd91efcba3059c03774048a76f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_66cd3ae713f013aaf5e0d5ba7f2fc7cdf713b08a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_e6de84b98c07320db70d8f28fea64ff4bd5686d5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/farouksendal/Desktop/QuizGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_e39b6377f3ce605219b972db8f62cc0d10e950e7/classes.dex" />
+    </item>
+
+</items>

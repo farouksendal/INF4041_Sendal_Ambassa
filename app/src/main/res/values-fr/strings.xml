@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizGame</string>
+    <string name="hello_world">Bonjour!</string>
+    <string name="menu_settings">Paramètres</string>
+    <string name="str_next">Suivant</string>
+    <string name="title_activity_result">Resultats</string>
+    <string name="str_return" >Retour</string>
+    <string name="exit" >Quitter</string>
+    <string name="about" >A Propos</string>
+</resources>
